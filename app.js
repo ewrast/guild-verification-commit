@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-01T17:33:58.494Z
-Commit: Fix race condition in async operations
+Timestamp: 2025-11-03T06:34:49.039Z
+Commit: Fix broken links in documentation
